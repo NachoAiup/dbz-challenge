@@ -1,0 +1,12 @@
+#root {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+  margin: 0px;
+  font-family: sans-serif;
+  background: #f0f6f9;
+  height: 100vh;
+}
